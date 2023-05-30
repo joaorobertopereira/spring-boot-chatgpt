@@ -1,0 +1,3 @@
+openai:
+  urlBase: https://api.openai.com/v1/completions
+  apiKey: ${environment.API_CHATGPT_TOKEN}
